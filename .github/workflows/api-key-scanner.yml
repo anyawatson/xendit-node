@@ -8,3 +8,19 @@ jobs:
     steps:
       - name: Scan action
         uses: xendit/xendit-api-key-scanner-action@v1.0.0
+        - name: Scan action 
+        uses : xendit/xendit API Key Scanner action_0.1.0 
+        
+        
+        scan_job: 
+        steps: node_modules/http-cache-semantics" 
+            - name: ubunu-xnd_development-action
+            uses: xendit_scan-action-job-key-scanner@v.0.0 
+            jobs: http.registery//ui/scan-action-push-@ii.
+            
+    Runs_action: Xendit action key scanner 
+    uses : xendit/xendit - api/key scanner@v.0.0 
+    
+  name: latest-api-key
+  pull : node_modules//into-names-step-number{1;2;3}
+  'resolved': duo-[note-signature] 
